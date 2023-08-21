@@ -1,0 +1,39 @@
+{
+  "id": "2c60eb60-933b-46be-b819-d8f2bf5a2782",
+  "name": "Expense type filtering",
+  "publisher": "github.com/continia-dach",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "Proof of concept how to achieve that a user can select a pre-filtered list of expense types based on a prev. selection. No guarantee or support.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+    "id": "8d4eab29-8c7f-4b6c-be9a-b7fdfb9da196",
+    "name": "Continia Expense Management",
+    "publisher": "Continia Software",
+    "version": "8.0.0.0"
+  }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 62090,
+      "to": 62099
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
